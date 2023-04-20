@@ -7,6 +7,29 @@
 % hello what is your name
 - Nice to meet you <formal>!
 
++ how are you
+- i am good
+
++ knock knock
+- Who's there?
+
++ *
+% who is there
+- <star> who?
+
++ *
+% * who
+- 🤡 <star>? That's the best you can do?
+
++ i am * years old
+- <star1>! Wow you're old 
+
++ tell me a poem
+- no. 
+
++ say *
+- Umm... "<person>"
+
 + my name is *
 - Nice to meet you <star>
 - Nice meeting you <star>
